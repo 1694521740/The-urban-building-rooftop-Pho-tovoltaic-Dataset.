@@ -26,4 +26,6 @@ Here is the distribution of the number of images for each class in the dataset:
 - Shadowing: 201 images
 - Soiled Shadows: 103 images
 - Cell: 30 images
+
+
 ![class_distribution](class_distribution.png)
