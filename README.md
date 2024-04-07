@@ -12,5 +12,5 @@
 - **Time of Capture**: Between 2-5 pm on a sunny day
 - **Image Resolution**: 128x200 pixels
 
-##Definitions of different faults in the urban building rooftop photovoltaic dataset, along with possible manifestations and potential causes.
+### Definitions of different faults in the urban building rooftop photovoltaic dataset, along with possible manifestations and potential causes.
 ![Definitions](Definitions.png)
