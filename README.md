@@ -1,19 +1,16 @@
+## Data Collection
 
-## Partitioning of the cleaned tnfraredsolarmodules dataset after data cleaning
-```
-| Class Grouping Levels | Class name    | Train  | Val  |
-|-----------------------|---------------|--------|------|
-| Many                  | No-Anomaly    | 7,246  | 1999 |
-|                       | Cell          | 1,179  | 375  |
-|                       | Vegetation    | 1,312  | 327  |
-|                       | Diode         | 1,200  | 299  |
-| Med                   | Cell-Multi    | 897    | 249  |
-|                       | Shadowing     | 799    | 210  |
-|                       | Cracking      | 746    | 179  |
-|                       | Offline-Module| 601    | 165  |
-|                       | Hot-Spot      | 200    | 49   |
-|                       | Hot-Spot-Multi| 197    | 49   |
-| Few                   | Soiling       | 175    | 29   |
-|                       | Diode-Multi   | 139    | 36   |
-| Total                 | 12-Class      | 14,691 | 3,966|
-```
+We utilized a Matrice 350 RTK UAV equipped with a Zenmuse H20 infrared imaging camera to capture a total of 1,694 thermographic images on the roofs of three building complexes. The samples encompassed five different classes. The UAV was positioned at a height of 8.5-10 meters above the PV panels at a vertical angle, resulting in clear images with a resolution of 128x200 pixels. The images were captured between 2-5 pm on a sunny day to ensure consistent lighting conditions.
+
+### Capture Conditions
+
+- **Equipment**: Matrice 350 RTK UAV with Zenmuse H20 infrared imaging camera
+- **Number of Images**: 1,694
+- **Location**: Roofs of three building complexes
+- **Sample Classes**: Five different classes
+- **Positioning**: Height of 8.5-10 meters above the PV panels
+- **Time of Capture**: Between 2-5 pm on a sunny day
+- **Image Resolution**: 128x200 pixels
+
+##Definitions of different faults in the urban building rooftop photovoltaic dataset, along with possible manifestations and potential causes.
+![Definitions](Definitions.png)
