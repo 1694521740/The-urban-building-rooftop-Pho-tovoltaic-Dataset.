@@ -1,5 +1,5 @@
 ## Dataset Source
-The dataset was publicly released by the HDU IoT Sensing and Control Laboratory at Hangzhou University.
+The dataset was publicly released by the HDU IoT Sensing and Control Laboratory at Hangzhou Dianzi University.
 
 ## Data Collection
 
